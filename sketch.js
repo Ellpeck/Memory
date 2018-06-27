@@ -1,5 +1,5 @@
-const width = 6;
-const height = 5;
+const width = 5;
+const height = 4;
 const cardSize = 120;
 
 let board;
